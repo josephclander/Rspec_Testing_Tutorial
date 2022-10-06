@@ -1,0 +1,21 @@
+---
+- !ruby/object:Book
+  title: Book One
+  author: Author 1
+  category: :development
+- !ruby/object:Book
+  title: Book Two
+  author: Author 2
+  category: :design
+- !ruby/object:Book
+  title: Book Three
+  author: Author 3
+  category: :usability
+- !ruby/object:Book
+  title: Book Four
+  author: Author 4
+  category: :development
+- !ruby/object:Book
+  title: Book Five
+  author: Author 5
+  category: :design
